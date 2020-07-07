@@ -4,7 +4,7 @@ function getword(info,tab) {
   });
 }
 chrome.contextMenus.create({
-  title: "Pesquisar no MUI %s", 
+  title: "🔍 Pesquisar no MUI: '%s'", 
   contexts:["selection"], 
   onclick: getword
 });

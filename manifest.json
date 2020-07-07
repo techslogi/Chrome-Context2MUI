@@ -2,10 +2,15 @@
     "name": "Context2MUI",
     "version": "1.0",
     "manifest_version": 2,
-    "description": "Context2MUI",
+    "description": "Context2MUI: Extensão pra facilitar a pesquisa de ID's atráves da barra de contexto do Google Chrome",
     "permissions": [
       "contextMenus"
      ],
+
+     "icons": { "16":  "icon.png",
+                "48":  "icon48.png",
+                "128": "icon128.png"},
+     
     "background": { 
       "scripts": ["main.js"]
     }
