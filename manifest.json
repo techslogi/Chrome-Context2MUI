@@ -2,7 +2,7 @@
     "name": "Context2MUI",
     "version": "1.0",
     "manifest_version": 2,
-    "description": "Context2MUI: Extensão pra facilitar a pesquisa de ID's atráves da barra de contexto do Google Chrome",
+    "description": "Context2MUI: Extensão para facilitar a pesquisa de ID's atráves da barra de contexto do Google Chrome",
     "permissions": [
       "contextMenus"
      ],
